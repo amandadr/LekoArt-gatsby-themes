@@ -1,5 +1,5 @@
 {
-  "name": "@lekoarts/gatsby-theme-jodie",
+  "name": "@amandadr/gatsby-theme-jodie",
   "version": "5.1.5",
   "author": "LekoArts",
   "description": "Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.",
@@ -42,7 +42,7 @@
   "homepage": "https://themes.lekoarts.de",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LekoArts/gatsby-themes.git",
+    "url": "https://github.com/amandadr/LekoArt-gatsby-themes.git",
     "directory": "themes/gatsby-theme-jodie"
   },
   "engines": {
